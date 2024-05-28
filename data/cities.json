@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Ejigbo",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2024-05-18T00:30:02.879Z",
+      "notes": "ejigbo lawa",
+      "position": {
+        "lat": "7.89875012596088",
+        "lng": "4.313850402832032"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Chicago",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-05-22T10:43:18.375Z",
+      "notes": "visited chicago",
+      "position": {
+        "lat": "41.57249538996049",
+        "lng": "-87.7914047241211"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Hallefors",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-05-22T10:47:43.869Z",
+      "notes": "",
+      "position": {
+        "lat": "59.51084546552809",
+        "lng": "14.699707031250002"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Keitele",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-05-22T10:47:51.134Z",
+      "notes": "",
+      "position": {
+        "lat": "63.1533616294077",
+        "lng": "26.345214843750004"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Savukoski",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-05-22T10:47:56.339Z",
+      "notes": "",
+      "position": {
+        "lat": "67.39017750348047",
+        "lng": "27.575683593750004"
+      },
+      "id": 98443214
+    },
+    {
+      "cityName": "Sao Felix do Araguaia",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-05-22T10:48:31.759Z",
+      "notes": "",
+      "position": {
+        "lat": "-10.947111052211396",
+        "lng": "-52.99804687500001"
+      },
+      "id": 98443218
+    }
+  ]
+}
